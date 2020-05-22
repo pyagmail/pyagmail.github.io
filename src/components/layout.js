@@ -52,7 +52,7 @@ const Layout = ({children}) => (
                                 <ul className={"links"}>
                                     <h4>Pyagmail</h4>
                                     <ul>
-                                        <li><Link to="/integrations/slack" title={"Integrations"}>Requirements</Link></li>
+                                        <li><Link to="/integrations/usage" title={"Integrations"}>Requirements</Link></li>
                                         <li><Link to="/about" title={"About Us"}>About</Link></li>
                                         <li><a className={"links__special"} href={"https://github.com/pyagmail/pyagmail/issues"} target={"_blank"} title={"We look forward to receiving your great feedback"}>Report an issue</a></li>
                                     </ul>

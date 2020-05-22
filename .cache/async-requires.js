@@ -8,6 +8,7 @@ exports.components = {
   "component---src-pages-contact-js": () => import("./../src/pages/contact.js" /* webpackChunkName: "component---src-pages-contact-js" */),
   "component---src-pages-index-js": () => import("./../src/pages/index.js" /* webpackChunkName: "component---src-pages-index-js" */),
   "component---src-pages-integrations-slack-js": () => import("./../src/pages/integrations/slack.js" /* webpackChunkName: "component---src-pages-integrations-slack-js" */),
+  "component---src-pages-integrations-usage-js": () => import("./../src/pages/integrations/usage.js" /* webpackChunkName: "component---src-pages-integrations-usage-js" */),
   "component---src-pages-privacy-js": () => import("./../src/pages/privacy.js" /* webpackChunkName: "component---src-pages-privacy-js" */),
   "component---src-pages-terms-js": () => import("./../src/pages/terms.js" /* webpackChunkName: "component---src-pages-terms-js" */)
 }
