@@ -8,14 +8,15 @@ import thumbnailBoard from "../../static/images/feature-board.png"
 import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
 import thumbnailStaff from "../../static/images/feature-user.png"
+import iconGitHub from "../../static/images/icon-github.svg"
 
 const IndexPage = () => (
     <Layout>
-        <SEO title="Make your Staff and Workspace Happy"/>
+        <SEO title="Pyagmail, a python script for sending automatic mails to lists from your gmail account"/>
 
         <div className={"page-header home"}>
-            <h1>Make your Staff and Workspace Happy</h1>
-            <p>HiStaff gives your complex the opportunity to increase the percentage of happiness<br/>and enjoyment of your staff and as a result, bring productivity to your workspace.</p>
+            <h1>Send automatic emails to csv lists with your Gmail account </h1>
+            <p>Pyagmail gives your a complete python script for sending<br/>automatic mails, increase the possibility to acquire customers!</p>
             <img alt={"Dashboard"} src={featureImage}/>
         </div>
 
@@ -31,8 +32,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Create and Join Events</h2>
-                                <p>Save your time and energy by letting HiStaff to manage your events (handle the colleague’s birthday, gathering, etc.)</p>
+                                <h2>Create a csv list</h2>
+                                <p>Upload to the script the email list from a csv file, pyagmail will read all the addresses and send the selected email.</p>
                             </div>
                         </div>
                     </div>
@@ -42,8 +43,8 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Public Board</h2>
-                                <p>Let the staff write down on the board freely,<br/>Joking with each other and writing cool content can make the workplace more diverse and attractive for employees. </p>
+                                <h2>Make your email body</h2>
+                                <p>Pyagmail read from a file your email text,<br/>Put the txt file in the pyagmail folder, and specify the file in the config.py script, pyagmail will use the text in the email body. </p>
                             </div>
                         </div>
 
@@ -65,8 +66,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Internal News</h2>
-                                <p>Get rid of sending news by e-mail and its problems; post the news in an internal and attractive format via HiStaff instead.</p>
+                                <h2>At the right time</h2>
+                                <p>Pyagmail send automatic email to the list only in days hours. By default, will send from 9:00 to 18:00, and will stop sending in night hours.</p>
                             </div>
                         </div>
                     </div>
@@ -76,8 +77,8 @@ const IndexPage = () => (
                     <div className={"row"}>
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Teams</h2>
-                                <p>HiStaff let you add staff in specific teams and manage them easily.</p>
+                                <h2>See who received your email campain</h2>
+                                <p>After running, Pyagmail will send to your email box two log files with the list of the rejected emails and the delivered emails.</p>
                             </div>
                         </div>
 
@@ -99,8 +100,8 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>Staff management</h2>
-                                <p>Discard traditional ways to archive staff documents and information, and try new ways to store and archive them in HiStaff easily.</p>
+                                <h2>Forget manual followups</h2>
+                                <p>If you work every day with emails, and you repeat always the same tasks to follow up clients, with pyagmail will you forget it and start doing something else!</p>
                             </div>
                         </div>
                     </div>
@@ -111,12 +112,12 @@ const IndexPage = () => (
         <div className={"call-to-action"}>
             <div className={"container"}>
                 <div className={"call-to-action__content"}>
-                    <h2>Sign up for free</h2>
-                    <p>Sign up and start increasing the productivity of your business with HiStaff.</p>
+                    <h2>Fork it from GitHub</h2>
+                    <p>Download or fork from GitHub to start using it for free.</p>
                 </div>
 
                 <div className={"button"}>
-                    <a href="https://app.histaff.io" target={"_blank"}>Get Started</a>
+                    <a href="https://app.histaff.io" target={"_blank"}><img alt={"GitHub"} src={iconGitHub}/>Fork It!</a>
                 </div>
             </div>
         </div>

@@ -15,7 +15,7 @@ const TermsPage = () => (
                 <p><strong>Last Updated 07 June 2019</strong></p>
 
                 <h3><strong>1. Agreement to Terms</strong></h3>
-                <p>1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (<strong>you</strong>), and <strong>HiStaff</strong>, doing business as<strong> HiStaff</strong> <strong>(https://histaff.io) </strong>website as well as any related applications (the <strong>Site</strong>). &nbsp;</p>
+                <p>1.1 These Terms and Conditions constitute a legally binding agreement made between you, whether personally or on behalf of an entity (<strong>you</strong>), and <strong>Pyagmail</strong>, doing business as<strong> Pyagmail</strong> <strong>(https://github.com/pyagmail/pyagmail/) </strong>website as well as any related applications (the <strong>Site</strong>). &nbsp;</p>
                 <p>The Site provides the following services: (<strong>Services</strong>). You agree that by accessing the Site and/or Services, you have read, understood, and agree to be bound by all of these Terms and Conditions. &nbsp;</p>
                 <p><strong>If you do not agree with all of these Terms and Conditions, then you are prohibited from using the Site and Services and you must discontinue use immediately</strong>. We recommend that you print a copy of these Terms and Conditions for future reference. &nbsp;</p>
                 <p>1.2 The supplemental policies set out in Section 1.7 below, as well as any supplemental terms and condition or documents that may be posted on the Site from time to time, are expressly incorporated by reference. &nbsp;</p>
@@ -24,12 +24,12 @@ const TermsPage = () => (
                 <p>1.5 Our site is directed to people residing in England. The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. &nbsp;</p>
                 <p>1.6 The Site is intended for users who are at least 18 years old. If you are under the age of 18, you are not permitted to register for the Site or use the Services without parental permission.</p>
                 <p>1.7 Additional policies which also apply to your use of the Site include: &nbsp;</p>
-                <p><strong>&mdash; </strong>Our Privacy Notice https://histaff.io/privacy, which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate. &nbsp;</p>
-                <p><strong>&mdash; </strong>Our Acceptable Use Policy contact@histaff.io, which sets out the permitted uses and prohibited uses of the Site. When using the Site, you must comply with this Acceptable Use Policy. &nbsp;</p>
-                <p><strong>&mdash; </strong>Our Cookie Policy https://app.histaff.io, which sets out information about the cookies on the Site.</p>
+                <p><strong>&mdash; </strong>Our Privacy Notice https://github.com/pyagmail/pyagmail/, which sets out the terms on which we process any personal data we collect from you, or that you provide to us. By using the Site, you consent to such processing and you warrant that all data provided by you is accurate. &nbsp;</p>
+                <p><strong>&mdash; </strong>Our Acceptable Use Policy lantoniotrento@gmail.io, which sets out the permitted uses and prohibited uses of the Site. When using the Site, you must comply with this Acceptable Use Policy. &nbsp;</p>
+                
 
                 <h3><strong>2. </strong>&nbsp;<strong>Acceptable Use </strong> </h3>
-                <p>2.1 Our full Acceptable Use Policy contact@histaff.io, sets out all the permitted uses and prohibited uses of this site. &nbsp;</p>
+                <p>2.1 Our full Acceptable Use Policy lantoniotrento@gmail.io, sets out all the permitted uses and prohibited uses of this site. &nbsp;</p>
                 <p>2.2 You may not access or use the Site for any purpose other than that for which we make the site and our services available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us. &nbsp;</p>
                 <p>2.3 As a user of this Site, you agree not to: &nbsp;</p>
                 <p><strong>&mdash; </strong>Falsely imply a relationship with us or another company with whom you do not have a relationship </p>
@@ -42,7 +42,7 @@ const TermsPage = () => (
                 <h3><strong>4.</strong> <strong> </strong><strong>Content you provide to us</strong></h3>
                 <p>4.1 There may be opportunities for you to post content to the Site or send feedback to us (<strong>User Content</strong>). You understand and agree that your User Content may be viewed by other users on the Site, and that they may be able to see who has posted that User Content. </p>
                 <p>4.2 <em>You further agree that we can use your User Content for any other purposes whatsoever in perpetuity without payment to you, and combine your User Content with other content for use within the Site and otherwise. We do not have to attribute your User Content to you</em>. <em>When you upload or post content to our site, you grant us the following rights to use that content:</em> &nbsp;</p>
-                <p>4.3 In posting User Content, including reviews or making contact with other users of the Site you shall comply with our Acceptable Use Policy contact@histaff.io. &nbsp;</p>
+                <p>4.3 In posting User Content, including reviews or making contact with other users of the Site you shall comply with our Acceptable Use Policy lantoniotrento@gmail.io. &nbsp;</p>
                 <p>4.4 You warrant that any User Content does comply with our Acceptable Use Policy, and you will be liable to us and indemnify us for any breach of that warranty. This means you will be responsible for any loss or damage we suffer as a result of your breach of this warranty.</p>
                 <p>4.5 We have the right to remove any User Content you put on the Site if, in our opinion, such User Content does not comply with the Acceptable Use Policy. &nbsp;</p>
                 <p>4.6 We are not responsible and accept no liability for any User Content including any such content that contains incorrect information or is defamatory or loss of User Content. We accept no obligation to screen, edit or monitor any User Content but we reserve the right to remove, screen and/or edit any User Content without notice and at any time. User Content has not been verified or approved by us and the views expressed by other users on the Site do not represent our views or values</p>

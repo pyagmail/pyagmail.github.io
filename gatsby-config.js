@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
-        title: `HiStaff`,
-        description: `Make your Staff and Workspace Happy`,
-        author: `@mostafasoufi`,
+        title: `Pyagmail`,
+        description: `Send automatic emails to csv lists with your Gmail account`,
+        author: `@antoniotrento`,
     },
     plugins: [
         `gatsby-plugin-react-helmet`,

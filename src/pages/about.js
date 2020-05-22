@@ -12,8 +12,8 @@ const AboutPage = () => (
         <SEO title="About"/>
 
         <div className={"page-header"}>
-            <h2>What’s HiStaff?</h2>
-            <p>HiStaff is a service that boost the staff’s productivity by offering new ways<br />to increase employee motivation and happiness.</p>
+            <h2>What’s Pyagmail?</h2>
+            <p>Pyagmail is a python program that boost the staff’s productivity by offering new ways to send emails.<br />To increase the number of the emails sent every day.</p>
         </div>
 
         <div className={"container"}>
@@ -26,16 +26,16 @@ const AboutPage = () => (
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Information"} src={informationImage}/>
-                            <h3>Handling of Employes’s Information and documents</h3>
-                            <p>Having a human management software for businesses and startups is not always cost-effective. HiStaff allows companies to archive their employees' documents and information free of charge.</p>
+                            <h3>Handling lists of emails via csv files</h3>
+                            <p>Manage email contacts with csv file lists and give it to Pyagmail for start seding automatic mails to them.</p>
                         </div>
                     </div>
 
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Event"} src={eventImage}/>
-                            <h3>Manage Events</h3>
-                            <p>How to hold internal events is one of the problems of companies. HiStaff by presenting new ideas allows event management to be done as easily as possible.</p>
+                            <h3>Manage the timing to send  emails</h3>
+                            <p>Choose the right hours of the day to send your emails is important to give you the possibility that the receiver will see your mail.</p>
                         </div>
                     </div>
                 </div>
@@ -45,15 +45,15 @@ const AboutPage = () => (
                         <div className={"item"}>
                             <img alt={"Productivity"} src={ProductivityImage}/>
                             <h3>Raise productivity</h3>
-                            <p>Many factors are affecting the staff's productivity in the workplace, the relationship between manager and staff and environmental factors are the main factors, therefore we will focus on these two factors in achieving our goal. Ultimately, increasing employee's productivity results in increasing the quality of products and services that are going to be provided.</p>
+                            <p>When Pyagmail works, you'll have free time because it will do the work for you, and  you can start doing something new.</p>
                         </div>
                     </div>
 
                     <div className={"col-6"}>
                         <div className={"item"}>
                             <img alt={"Happiness"} src={happinessImage}/>
-                            <h3>Boost motivation and happiness</h3>
-                            <p>It is Obvious that a happy employee will make the environment happy and energetic! We are constantly attempting to provide solutions for maximizing employee’s motivation and joy.</p>
+                            <h3>Boost your free time and happiness</h3>
+                            <p>It is Obvious that a happy employee will make the environment happy and energetic! Sending a  lot of mail every day is realy boring!</p>
                         </div>
                     </div>
                 </div>
