@@ -17,7 +17,7 @@ const IndexPage = () => (
         <SEO title="Pyagmail, a python script for sending automatic mails to lists from your gmail account"/>
 
         <div className={"page-header home"}>
-            <h1>Send automatic emails to csv lists with your Gmail account </h1>
+            <h1>Send automatic emails to csv lists<br/>With your Gmail account </h1>
             <p>Pyagmail gives your a complete python script for sending<br/>automatic mails, increase the possibility to acquire customers!</p>
             <div className={"container"}>
                 <div className={"row"}>
