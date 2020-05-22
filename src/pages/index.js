@@ -9,6 +9,8 @@ import thumbnailNews from "../../static/images/feature-news.png"
 import thumbnailTeams from "../../static/images/feature-team.png"
 import thumbnailStaff from "../../static/images/feature-user.png"
 import iconGitHub from "../../static/images/icon-github.svg"
+import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader';
+deckDeckGoHighlightElement();
 
 const IndexPage = () => (
     <Layout>
@@ -17,7 +19,23 @@ const IndexPage = () => (
         <div className={"page-header home"}>
             <h1>Send automatic emails to csv lists with your Gmail account </h1>
             <p>Pyagmail gives your a complete python script for sending<br/>automatic mails, increase the possibility to acquire customers!</p>
-            <img alt={"Dashboard"} src={featureImage}/>
+            <div className={"container"}>
+                <div className={"row"}>
+                    <div className={"col-2"}>
+                    
+                    </div>
+                    <div className={"col-8"}>
+                    <deckgo-highlight-code
+                        terminal="carbon"
+                        src="https://raw.githubusercontent.com/pyagmail/pyagmail/master/pyagmail-website/home-hero-pyagmail.md"
+                    >
+                    </deckgo-highlight-code>
+                    </div>
+                    <div className={"col-2"}>
+                    
+                    </div>
+                </div>
+            </div>
         </div>
 
         <div className={"container"}>
