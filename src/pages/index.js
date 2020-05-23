@@ -2,12 +2,11 @@ import React from "react"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import featureImage from "../../static/images/hero.png";
-import thumbnailEvent from "../../static/images/feature-event.png"
-import thumbnailBoard from "../../static/images/feature-board.png"
-import thumbnailNews from "../../static/images/feature-news.png"
-import thumbnailTeams from "../../static/images/feature-team.png"
-import thumbnailStaff from "../../static/images/feature-user.png"
+import thumbnailEvent from "../../static/images/csv-list.png"
+import thumbnailBoard from "../../static/images/gmail-python.png"
+import thumbnailNews from "../../static/images/python-clock.png"
+import thumbnailTeams from "../../static/images/python-document.png"
+import thumbnailStaff from "../../static/images/python-keyboard.png"
 import iconGitHub from "../../static/images/icon-github.svg"
 import { defineCustomElements as deckDeckGoHighlightElement } from '@deckdeckgo/highlight-code/dist/loader';
 deckDeckGoHighlightElement();
@@ -51,7 +50,7 @@ const IndexPage = () => (
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
                                 <h2>Create a csv list</h2>
-                                <p>Upload to the script the email list from a csv file, pyagmail will read all the addresses and send the selected email.</p>
+                                <p>Upload to the script an email list from a csv file, pyagmail will read all the addresses and send the selected email.</p>
                             </div>
                         </div>
                     </div>
@@ -84,7 +83,7 @@ const IndexPage = () => (
 
                         <div className={"col-6"}>
                             <div className={"feature__content"}>
-                                <h2>At the right time</h2>
+                                <h2>Send at the right time</h2>
                                 <p>Pyagmail send automatic email to the list only in days hours. By default, will send from 9:00 to 18:00, and will stop sending in night hours.</p>
                             </div>
                         </div>

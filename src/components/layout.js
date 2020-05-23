@@ -42,7 +42,7 @@ const Layout = ({children}) => (
                                 </div>
 
                                 <div className={"about"}>
-                                    <p>A little Python script that was created with the goal of solving the problem to send to many emails, every day, to follow up your potential customers, and automate this task!</p>
+                                    <p>A little Python script that was created with the goal of solving the problem to send many similar emails, every day, to follow up your potential customers, and automate this task!</p>
                                 </div>
                             </div>
                         </div>
