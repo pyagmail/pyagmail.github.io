@@ -3,6 +3,9 @@
  * with Gatsby's StaticQuery component
  *
  * See: https://www.gatsbyjs.org/docs/static-query/
+ * 
+ * <li><Link to="/integrations/usage" title={"Usage"}>Usage</Link></li>
+ * 
  */
 
 import React from "react"
@@ -51,8 +54,7 @@ const Layout = ({children}) => (
                             <div className={"widget__item"}>
                                 <ul className={"links"}>
                                     <h4>Pyagmail</h4>
-                                    <ul>
-                                        <!-- <li><Link to="/integrations/usage" title={"Usage"}>Usage</Link></li> -->
+                                    <ul>                                        
                                         <li><Link to="/about" title={"About Us"}>About</Link></li>
                                         <li><a className={"links__special"} href={"https://github.com/pyagmail/pyagmail/issues"} target={"_blank"} title={"We look forward to receiving your great feedback"}>Report an issue</a></li>
                                     </ul>
