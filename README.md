@@ -10,6 +10,16 @@
 
 It's a starter static website which useful plugins based on [Gatsby](https://www.gatsbyjs.org/) .
 
+# Thigs used in pyagmail
+
+- https://docs.deckdeckgo.com/components/code/#app-components-highlight-code-examples
+
+## TO DO
+
+- [ ] Rebuild readme.md file
+- [ ] Create the gatsby blog (using the interface https://pyagmail.netlify.app/admin/ structure from https://www.netlifycms.org/) the interface works, the posts file.md are stored in /_posts/blog 
+
+
 ## 🚀 Quick start
 
 1. **Install the Gatsby CLI.**
