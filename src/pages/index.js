@@ -134,7 +134,7 @@ const IndexPage = () => (
                 </div>
 
                 <div className={"button"}>
-                    <a href="https://app.histaff.io" target={"_blank"}><img alt={"GitHub"} src={iconGitHub}/>Fork It!</a>
+                    <a href="https://github.com/pyagmail/pyagmail" target={"_blank"}><img alt={"GitHub"} src={iconGitHub}/>Fork It!</a>
                 </div>
             </div>
         </div>
