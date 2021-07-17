@@ -89,7 +89,7 @@ const Layout = ({children}) => (
                     </div>
 
                     <div className={"copyright"}>
-                        <p>Copyright {new Date().getFullYear()}, {` `} <a href="https://github.com/pyagmail/pyagmail" title={"Pyagmail"}>Pyagmail</a>. All rights reserved. Pull Requests welcome!</p>
+                        <p>Copyright {new Date().getFullYear()}, {` `} <a target="_blank" href="https://antoniotrento.net"><b>Antonio Trento</b></a>. All rights reserved. Pull Requests welcome!</p>
                     </div>
                 </div>
             </footer>
