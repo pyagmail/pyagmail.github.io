@@ -23,7 +23,7 @@
     "gatsby-transformer-sharp": "^2.5.3",
     "gatsby-transformer-sqip": "^2.3.9",
     "netlify-cms": "^2.10.49",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
